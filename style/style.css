@@ -1,0 +1,43 @@
+.container
+{
+	margin-top: 50px;
+}
+
+body
+{
+	background-color: #f2f2f2;
+}
+
+.container input
+{
+   border:solid black;
+}
+
+.listElements
+{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+}
+
+.listElements:hover
+{
+	cursor: pointer;
+	background-color: #e6e6e6;
+}
+
+.cont
+{
+	padding: 10px 100px 10px 100px;
+}
+
+.SearchBar
+{
+	margin-bottom: 25px;
+}
+
+.h3
+{
+	font-family: 'Galada', cursive;
+}
